@@ -1,2 +1,6 @@
+#Jekyll configuration
+name: Reading Notes Test
+description: American code lab
+url: "https://khoanlab.github.io/reading-notes-test/"
 kramdown: kramdown
 theme: minima
