@@ -10,3 +10,5 @@ Reminders to stay in a growth mindset:
 - Put your mask on first, you can't help others if you don't take care of yourself.
 - whenerver i'm struggling, remmeber no one else is walking in my shoes. this is my journey!
 - Try to focus on what's possible, not excuses. we can always find reasons why NOT, but it'll be helpful to find reasons why YES!
+
+My github portfolio lives here: [https://github.com/KhoanLab](https://github.com/KhoanLab)
